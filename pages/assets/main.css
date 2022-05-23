@@ -1,0 +1,23 @@
+button {
+  border: black 1px solid;
+  border-radius: 10px;
+  padding: 2px 8px;
+}
+input {
+  border: black 1px solid;
+}
+.blog {
+    padding: 2.5vh 4vw;
+}
+.textarea-change {
+    margin-left: 21px;
+}
+.input-name {
+    margin-left: 6.5px;
+}
+.publication {
+  border: black 1px solid;
+  border-radius: 10px;
+  padding: 10px;
+  min-width: 70vw;
+}
